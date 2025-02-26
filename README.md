@@ -1,7 +1,7 @@
 ![header](https://github.com/user-attachments/assets/e5b9447b-6480-4b6b-872d-c048dab9e96f)
 
 # 🍡 Shizukana Otaku
-Started to code at the age of 10. My first language was Java, the I moved on to more low-level ones; I learned C and Rust, failed at embracing Go, learned more tooling like Neovim, installed my first Linux distro (Ubuntu) at the age of 13, and a year later switched to Arch, which is my daily driver up to this day.
+Started to code at the age of 10. My first language was Java, then I moved on to more low-level ones; I learned C and Rust, failed at embracing Go, learned more tooling like Neovim, installed my first Linux distro (Ubuntu) at the age of 13, and a year later switched to Arch, which is my daily driver up to this day.
 
 ### Pronouns
 - He/him ♂️
