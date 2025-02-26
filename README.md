@@ -29,3 +29,4 @@ Started to code at the age of 10. My first language was Java, then I moved on to
 # PWEASE DON'T LAUGH AT MEEE
 
 ![footer](https://github.com/user-attachments/assets/9ca4fc2e-e483-41ba-9b5c-83fa40cb9171)
+##### *email: otakushizukana@gmail.com*
