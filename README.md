@@ -7,16 +7,16 @@ Started to code at the age of 10. My first language was Java, then I moved on to
 - He/him ♂️
 - Catboy/weeb :3 🇯🇵
 
-## 🧰T oolkit
+## 🧰 Toolkit
 <details>
-  <summary>⚙️ OS</summary>
+  <summary><b>💻 OS</b></summary>
 <img align="left" width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 <img align="left" width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <br clear="both"/>
 </details>
 
 <details>
-  <summary>🔧 Tools</summary>
+  <summary><b>🔧 Tools</b></summary>
 <img align="left" width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />
 <img align="left" width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 <img align="left" width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
@@ -25,7 +25,7 @@ Started to code at the age of 10. My first language was Java, then I moved on to
 </details>
 
   <details>
-    <summary>🔥 Languages</summary>
+    <summary><b>🔥 Languages</b></summary>
 <img align="left" width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 <img align="left" width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
