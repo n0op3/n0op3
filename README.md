@@ -44,7 +44,7 @@ Started to code at the age of 10. My first language was Java, then I moved on to
 <img align=left width=35% src="https://media.tenor.com/iaiL-DUKuzUAAAAd/bocchi-bocchi-the-rock.gif" />
     <p align="right">
         <img width=60% src="https://github-readme-stats.vercel.app/api?username=ShizukanaOtaku&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=transparent" />
-        <img width=60% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShizukanaOtaku&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=transparent" />
+        <img width=60% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShizukanaOtaku&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&include_all_commits=true&count_private=true&theme=transparent" />
     </p>
 
 *PWEASE DON'T LAUGH AT MEEE*
