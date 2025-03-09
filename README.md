@@ -1,5 +1,3 @@
-![header](https://github.com/user-attachments/assets/e5b9447b-6480-4b6b-872d-c048dab9e96f)
-
 # 🍡 About Me
 Started to code at the age of 10. My first language was Java, then I moved on to more low-level ones; I learned C and Rust, failed at embracing Go, learned more tooling like Neovim, installed my first Linux distro (Ubuntu) at the age of 13, and a year later switched to Arch, which is my daily driver up to this day.
 
@@ -49,5 +47,4 @@ Started to code at the age of 10. My first language was Java, then I moved on to
 
 *PWEASE DON'T LAUGH AT MEEE*
 
-![footer](https://github.com/user-attachments/assets/9ca4fc2e-e483-41ba-9b5c-83fa40cb9171)
 ##### *email: otakushizukana@gmail.com*
