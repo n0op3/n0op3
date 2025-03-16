@@ -39,7 +39,7 @@ Started to code at the age of 10. My first language was Java, then I moved on to
 </details>
 
 ## My usefulness to the FOSS world
-<img align=left height=400px src="https://media.tenor.com/iaiL-DUKuzUAAAAd/bocchi-bocchi-the-rock.gif" />
+<img align=left width = 40% height=400px src="https://media.tenor.com/iaiL-DUKuzUAAAAd/bocchi-bocchi-the-rock.gif" />
     <p align="right">
         <img height=220px src="https://github-readme-stats.vercel.app/api?username=ShizukanaOtaku&theme=transparent&show_icons=true&hide_border=true&count_private=true&count_all_commits=true" />
         <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShizukanaOtaku&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
