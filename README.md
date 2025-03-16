@@ -39,11 +39,12 @@ Started to code at the age of 10. My first language was Java, then I moved on to
 </details>
 
 ## My usefulness to the FOSS world
-<img align=left width=35% src="https://media.tenor.com/iaiL-DUKuzUAAAAd/bocchi-bocchi-the-rock.gif" />
+<img align=left height=400px src="https://media.tenor.com/iaiL-DUKuzUAAAAd/bocchi-bocchi-the-rock.gif" />
     <p align="right">
-        <img width=60% src="https://github-readme-stats.vercel.app/api?username=ShizukanaOtaku&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=transparent" />
-        <img width=60% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShizukanaOtaku&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&include_all_commits=true&count_private=true&theme=transparent" />
+        <img height=220px src="https://github-readme-stats.vercel.app/api?username=ShizukanaOtaku&theme=transparent&show_icons=true&hide_border=true&count_private=true&count_all_commits=true" />
+        <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShizukanaOtaku&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
     </p>
+<img width=100% src="https://streak-stats.demolab.com?user=ShizukanaOtaku&theme=default&hide_border=true&theme=transparent" alt="ShizukanaOtaku's GitHub Stats" />
 
 *PWEASE DON'T LAUGH AT MEEE*
 
