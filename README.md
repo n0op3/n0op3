@@ -43,8 +43,6 @@ Started to code at the age of 10. My first language was Java, then I moved on to
     <p align="right">
         <img width=55% src="https://github-readme-stats.vercel.app/api?username=ShizukanaOtaku&theme=transparent&show_icons=true&hide_border=true&count_private=true&count_all_commits=true" />
         <img width=55% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShizukanaOtaku&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
-    </p>
-<img width=100% src="https://streak-stats.demolab.com?user=ShizukanaOtaku&theme=default&hide_border=true&theme=transparent" alt="ShizukanaOtaku's GitHub Stats" />
 
 *PWEASE DON'T LAUGH AT MEEE*
 
