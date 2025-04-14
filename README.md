@@ -31,7 +31,6 @@ Started to code at the age of 10. My first language was Java, then I moved on to
   <summary><b>🔥 Languages</b></summary>
   
   <img align="left" width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-  <img align="left" width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="left" width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="left" width=32px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   
