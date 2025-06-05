@@ -40,10 +40,10 @@ Started to code at the age of 10. My first language was Java, then I moved on to
 ## My usefulness to the FOSS world
 <img align=left width = 45% src="https://media.tenor.com/iaiL-DUKuzUAAAAd/bocchi-bocchi-the-rock.gif" />
     <p align="right">
-        <img width=55% src="https://github-readme-stats.vercel.app/api?username=ShizukanaYaseotoko&theme=transparent&show_icons=true&hide_border=true&count_private=true&count_all_commits=true" />
-        <img width=55% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShizukanaYaseotoko&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
-        <img width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShizukanaYaseotoko&theme=transparent" />
+        <img width=55% src="https://github-readme-stats.vercel.app/api?username=n0op3&theme=transparent&show_icons=true&hide_border=true&count_private=true&count_all_commits=true" />
+        <img width=55% src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0op3&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
+        <img width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n0op3&theme=transparent" />
         
 *PWEASE DON'T LAUGH AT MEEE*
 
-##### *email: otakushizukana@gmail.com*
+##### *email: n0op3@proton.me*
