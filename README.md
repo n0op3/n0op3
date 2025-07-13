@@ -1,9 +1,9 @@
 # 🍡 About Me
-Started to code at the age of 10. My first language was Java, then I moved on to more low-level ones; I learned C++ and Rust, failed at embracing Go, learned more tooling like Neovim, installed my first Linux distro (Ubuntu) at the age of 13, and a year later switched to Arch, which is my daily driver up to this day.
+Started to code at the age of 10. My first language was Java, then I moved on to more low-level ones; I learned C++ and Rust, failed at embracing Go, learned more tooling like Neovim and build systems, installed my first Linux distro (Ubuntu) at the age of 13, and a year later switched to Arch, which is my daily driver up to this day (with a detour to Artix for some time, but too many things turned out to be SystemD-depemdent).
 
 ### Pronouns
 - He/him ♂️
-- Catboy/weeb :3 🇯🇵
+- Catboy/weeb 🇯🇵
 
 ## 🧰 Toolkit
 <details>
@@ -44,6 +44,6 @@ Started to code at the age of 10. My first language was Java, then I moved on to
         <img width=55% src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0op3&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
         <img width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n0op3&theme=transparent" />
         
-*PWEASE DON'T LAUGH AT MEEE*
+*Yeah not much to shof of, is it.*
 
 ##### *email: n0op3@proton.me*
