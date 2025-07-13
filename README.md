@@ -44,6 +44,6 @@ Started to code at the age of 10. My first language was Java, then I moved on to
         <img width=55% src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0op3&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
         <img width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n0op3&theme=transparent" />
         
-*Yeah not much to shof of, is it.*
+*Yeah not much to show off, is it.*
 
 ##### *email: n0op3@proton.me*
