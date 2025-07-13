@@ -1,5 +1,5 @@
 # 🍡 About Me
-Started to code at the age of 10. My first language was Java, then I moved on to more low-level ones; I learned C++ and Rust, failed at embracing Go, learned more tooling like Neovim and build systems, installed my first Linux distro (Ubuntu) at the age of 13, and a year later switched to Arch, which is my daily driver up to this day (with a detour to Artix for some time, but too many things turned out to be SystemD-depemdent).
+Started to code at the age of 10. My first language was Java, then I moved on to more low-level ones; I learned C++ and Rust, failed at embracing Go, learned more tooling like Neovim and build systems, installed my first Linux distro (Ubuntu) at the age of 13, and a year later switched to Arch, which is my daily driver up to this day (with a detour to Artix for some time, but too many things turned out to be SystemD-dependent).
 
 ### Pronouns
 - He/him ♂️
