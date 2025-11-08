@@ -7,7 +7,7 @@ Also, learned eventually I learned enough Go to be able to contribute to open-so
 - He/him ♂️
 - Catboy/weeb 🇯🇵
 
-## 🧰 Toolkit
+## 🧰 Skills
   <b>💻 OS</b>
 
   [![OS](https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,windows)](https://skillicons.dev)
