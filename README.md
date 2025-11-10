@@ -14,7 +14,7 @@ Also, eventually I learned enough Go to be able to contribute to open-source pro
   
   <b>🔧 Tools</b>
   
-  [![Tools](https://skillicons.dev/icons?i=cmake,git,neovim,bash,github,docker)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=cmake,git,neovim,idea,bash,github,docker)](https://skillicons.dev)
   
   <b>🔥 Languages</b>
   
