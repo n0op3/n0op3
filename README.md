@@ -17,6 +17,6 @@ Also, eventually I learned enough Go to be able to contribute to open-source pro
   
   <b>Languages</b>
   
-  [![Languages](https://skillicons.dev/icons?i=rust,cpp,c,java,go,nix)](https://skillicons.dev)
+  [![Languages](https://skillicons.dev/icons?i=rust,cpp,java,nix)](https://skillicons.dev)
 
 ##### *email: n0op3@proton.me*
