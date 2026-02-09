@@ -20,5 +20,5 @@ Also, eventually I learned enough Go to be able to contribute to open-source pro
   [![Languages](https://skillicons.dev/icons?i=rust,cpp,java,nix)](https://skillicons.dev)
 
 ## Private repos
-"Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those." - [@Vaxry](https://www.github.com/vaxerski)
+*"Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those."* - [@Vaxry](https://www.github.com/vaxerski)
 ##### *email: n0op3@proton.me*
