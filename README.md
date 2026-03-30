@@ -9,7 +9,7 @@ Also, eventually I learned enough Go to be able to contribute to open-source pro
 ## Skills
   <b>OSes</b>
 
-  [![OS](https://skillicons.dev/icons?i=linux,arch,nix,ubuntu,debian,windows)](https://skillicons.dev)
+  [![OS](https://skillicons.dev/icons?i=linux,nix,arch,ubuntu,debian,windows)](https://skillicons.dev)
   
   <b>Tools</b>
   
