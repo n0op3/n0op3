@@ -1,4 +1,4 @@
-# 🍡 About Me
+<h1><img src="assets/logo.svg" style="width: 20px"/> 🍡 About Me</h1>
 Started to code at the age of 10. My first language was Java, then I moved on to more low-level ones; I learned C++, some basic C and Rust, failed at embracing Go, learned more tooling like Neovim and build systems, installed my first Linux distro (Ubuntu) at the age of 13, and a year later switched to Arch, which was my daily driver for a long time (with a detour to Artix for a moment, but too many things turned out to be SystemD-dependent). However, the difficult maintenance and instability has piled up over all these years, so I finally landed on NixOS in January 28th, 2026. I really think I'll be staying on this one for a while though.
 
 Also, eventually I learned enough Go to be able to contribute to open-source projects.
