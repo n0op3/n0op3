@@ -3,6 +3,8 @@ Started to code at the age of 10. My first language was Java, then I moved on to
 
 Also, eventually I learned enough Go to be able to contribute to open-source projects.
 
+You can check out my portfolio [here](https://n0op3.github.io). 
+
 ### Pronouns
 - he/him
 
