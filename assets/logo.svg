@@ -7,89 +7,47 @@
    viewBox="0 0 105 105"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   sodipodi:docname="n0op3-logo.svg"
-   inkscape:export-filename="n0op3-logo-export.svg"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="1.4489087"
-     inkscape:cx="198.4252"
-     inkscape:cy="161.50086"
-     inkscape:window-width="1081"
-     inkscape:window-height="510"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     inkscape:clip-to-page="false">
-    <inkscape:grid
-       id="grid2"
-       units="mm"
-       originx="0"
-       originy="0"
-       spacingx="0.99999998"
-       spacingy="1"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14901961"
-       empspacing="5"
-       enabled="true"
-       visible="false" />
-  </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#685d5c;fill-opacity:1;stroke-width:0.259592"
+       style="fill:#142a30;fill-opacity:1;stroke-width:0.259592"
        id="rect1"
        width="35"
        height="105"
        x="0"
        y="1.1657341e-16"
-       ry="12" />
+       ry="9"
+       rx="9" />
     <rect
-       style="fill:#f44430;fill-opacity:1;stroke-width:0.305519"
+       style="fill:#561e96;fill-opacity:1;stroke-width:0.304931"
        id="rect1-6-2"
-       width="42.209"
-       height="120.59798"
-       x="-21.104649"
-       y="13.947217"
-       ry="12.24539"
+       width="42.127705"
+       height="120.3657"
+       x="-21.063852"
+       y="14.063361"
+       ry="11.976888"
        transform="rotate(-45)" />
     <rect
-       style="fill:#db734a;fill-opacity:1;stroke-width:0.259592"
+       style="fill:#1be8da;fill-opacity:1;stroke-width:0.259592"
        id="rect1-6"
        width="35"
        height="105"
        x="70"
        y="0"
-       ry="12" />
+       ry="9"
+       rx="9" />
     <rect
-       style="fill:#f44430;fill-opacity:1;stroke-width:0.253;stroke-dasharray:none"
+       style="fill:#561e96;fill-opacity:1;stroke-width:0.253;stroke-dasharray:none"
        id="rect2"
        x="0"
        y="0"
        width="35"
        height="35"
-       ry="12" />
+       ry="9"
+       rx="9" />
   </g>
 </svg>
