@@ -11,15 +11,15 @@ You can check out my portfolio [here](https://n0op3.github.io).
 ## Skills
   <b>OSes</b>
 
-  [![OS](https://skillicons.dev/icons?i=linux,nix,arch,ubuntu,debian,windows)](https://skillicons.dev)
+  [![OS](https://skills.syvixor.com/api/icons?i=linux,nixos,arch,ubuntu,debian,windows)](https://skillicons.dev)
   
   <b>Tools</b>
   
-  [![Tools](https://skillicons.dev/icons?i=cmake,git,neovim,idea,bash,github)](https://skillicons.dev)
+![Tools](https://skills.syvixor.com/api/icons?i=cmake,git,jujutsu,neovim,zsh,bash,github,githubactions,githubpages) 
   
   <b>Languages</b>
   
-  [![Languages](https://skillicons.dev/icons?i=rust,cpp,java,nix)](https://skillicons.dev)
+![Languages](https://skills.syvixor.com/api/icons?i=rust,cpp,java,nixos)
 
 ## Private repos
 *"Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those."* - [@Vaxry](https://www.github.com/vaxerski)
