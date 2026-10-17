@@ -26,3 +26,4 @@ You can check out my portfolio [here](https://n0op3.github.io).
 ## Private repos
 *"Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those."* - [@Vaxry](https://www.github.com/vaxerski)
 ##### *email: n0op3@proton.me*
+##### *Logo and header art made by me*
